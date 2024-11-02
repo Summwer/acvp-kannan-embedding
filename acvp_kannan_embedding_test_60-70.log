@@ -1,0 +1,66 @@
+=====================
+Start test acvp kannan embeeding with lattice dimension = 60
+db_size = 17918, db_dim = 61
+full_count: M = 320, num(v[-1] =+/- M) = 8760, db_size = 17918, prob = 0.4889 
+Restrict norm(v) <= sqrt(4/3) gh: M = 320, num(v[-1] =+/- M) = 1466, db_size = 2996, prob = 0.4893 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 61
+db_size = 20690, db_dim = 62
+full_count: M = 323, num(v[-1] =+/- M) = 10144, db_size = 20690, prob = 0.4903 
+Restrict norm(v) <= sqrt(4/3) gh: M = 323, num(v[-1] =+/- M) = 1599, db_size = 3234, prob = 0.4944 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 62
+db_size = 23891, db_dim = 63
+full_count: M = 324, num(v[-1] =+/- M) = 11618, db_size = 23891, prob = 0.4863 
+Restrict norm(v) <= sqrt(4/3) gh: M = 324, num(v[-1] =+/- M) = 1794, db_size = 3693, prob = 0.4858 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 63
+db_size = 27587, db_dim = 64
+full_count: M = 326, num(v[-1] =+/- M) = 13474, db_size = 27587, prob = 0.4884 
+Restrict norm(v) <= sqrt(4/3) gh: M = 326, num(v[-1] =+/- M) = 2116, db_size = 4149, prob = 0.5100 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 64
+db_size = 31855, db_dim = 65
+full_count: M = 328, num(v[-1] =+/- M) = 15485, db_size = 31855, prob = 0.4861 
+Restrict norm(v) <= sqrt(4/3) gh: M = 328, num(v[-1] =+/- M) = 2566, db_size = 5124, prob = 0.5008 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 65
+db_size = 36783, db_dim = 66
+full_count: M = 331, num(v[-1] =+/- M) = 17776, db_size = 36783, prob = 0.4833 
+Restrict norm(v) <= sqrt(4/3) gh: M = 331, num(v[-1] =+/- M) = 2715, db_size = 5366, prob = 0.5060 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 66
+db_size = 42474, db_dim = 67
+full_count: M = 334, num(v[-1] =+/- M) = 20364, db_size = 42474, prob = 0.4794 
+Restrict norm(v) <= sqrt(4/3) gh: M = 334, num(v[-1] =+/- M) = 3031, db_size = 6050, prob = 0.5010 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 67
+db_size = 49045, db_dim = 68
+full_count: M = 337, num(v[-1] =+/- M) = 23779, db_size = 49045, prob = 0.4848 
+Restrict norm(v) <= sqrt(4/3) gh: M = 337, num(v[-1] =+/- M) = 3714, db_size = 7381, prob = 0.5032 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 68
+db_size = 56632, db_dim = 69
+full_count: M = 339, num(v[-1] =+/- M) = 27181, db_size = 56632, prob = 0.4800 
+Restrict norm(v) <= sqrt(4/3) gh: M = 339, num(v[-1] =+/- M) = 4066, db_size = 7996, prob = 0.5085 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 69
+db_size = 65393, db_dim = 70
+full_count: M = 342, num(v[-1] =+/- M) = 31272, db_size = 65393, prob = 0.4782 
+Restrict norm(v) <= sqrt(4/3) gh: M = 342, num(v[-1] =+/- M) = 5273, db_size = 10737, prob = 0.4911 
+-------------------end------------------------
+=====================
+Start test acvp kannan embeeding with lattice dimension = 70
+db_size = 75510, db_dim = 71
+full_count: M = 344, num(v[-1] =+/- M) = 36125, db_size = 75510, prob = 0.4784 
+Restrict norm(v) <= sqrt(4/3) gh: M = 344, num(v[-1] =+/- M) = 5275, db_size = 10481, prob = 0.5033 
+-------------------end------------------------

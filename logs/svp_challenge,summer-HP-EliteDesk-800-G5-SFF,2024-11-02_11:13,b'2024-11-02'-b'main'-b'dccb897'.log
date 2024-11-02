@@ -1,0 +1,14 @@
+ INFO:        root:2024/11/02 11:13:40 CST: Did not find 'svpchallenge/svpchallenge-dim-050-seed-00.txt', downloading ...
+DEBUG:urllib3.connectionpool:2024/11/02 11:13:40 CST: Starting new HTTPS connection (1): www.latticechallenge.org:443
+DEBUG:urllib3.connectionpool:2024/11/02 11:13:42 CST: https://www.latticechallenge.org:443 "POST /svp-challenge/generator.php HTTP/11" 200 None
+ INFO:        root:2024/11/02 11:13:42 CST: 200 OK
+ INFO:        asvp:2024/11/02 11:13:42 CST: sol 50, (263, 232, 374, -79, -287, 181, -467, -92, 95, -37, -352, -118, 546, -101, 56, 32, 191, 262, 213, 80, 39, -352, -221, 445, -25, -551, -232, 277, 151, 651, 64, -440, -107, -230, 448, 83, -227, -4, 353, 138, -215, -367, 0, -79, 40, 337, -113, 232, 270, -176)
+ INFO:        asvp:2024/11/02 11:13:42 CST: norm 1902.5 ,hf 1.03595
+DEBUG:        root:2024/11/02 11:13:42 CST: {"('svp-challenge', 50)": {"cputime": 0.014490,  "walltime": 0.014477,  "r_0":   2^21.8,  "r_0/gh": 1.073194,  "rhf": 1.012538,  "/": -0.07504,  "hv/hv": 1.626667,  "r": '...',  "flast":        9}}
+ INFO:        root:2024/11/02 11:13:42 CST:                                                    :: n: 50, cputime  0.0145s, walltime:  0.0145s, flast: 9.00, |db|: 2^7.95
+DEBUG:  matplotlib:2024/11/02 11:13:42 CST: matplotlib data path: /home/summer/lattice-attack-experiments/acvp-kannan-embedding/g6k-env/lib/python3.8/site-packages/matplotlib/mpl-data
+DEBUG:  matplotlib:2024/11/02 11:13:42 CST: CONFIGDIR=/home/summer/.config/matplotlib
+DEBUG:  matplotlib:2024/11/02 11:13:42 CST: interactive is False
+DEBUG:  matplotlib:2024/11/02 11:13:42 CST: platform is linux
+DEBUG:  matplotlib:2024/11/02 11:13:42 CST: CACHEDIR=/home/summer/.cache/matplotlib
+DEBUG:matplotlib.font_manager:2024/11/02 11:13:42 CST: Using fontManager instance from /home/summer/.cache/matplotlib/fontlist-v330.json

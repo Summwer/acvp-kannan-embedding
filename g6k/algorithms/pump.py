@@ -153,6 +153,7 @@ def pump(g6k, tracer, kappa, blocksize, dim4free, down_sieve=False,             
                     print_pump_state(pump)
                 if not wrapped_sieve(pump):
                     break
+            
 
             if goal_r0 is not None and (g6k.M.get_r(kappa, kappa) <= goal_r0):
                 return
